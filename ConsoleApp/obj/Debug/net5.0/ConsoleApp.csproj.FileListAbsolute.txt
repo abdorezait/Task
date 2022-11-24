@@ -1,0 +1,16 @@
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ConsoleApp
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ConsoleApp.deps.json
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.json
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.dev.json
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ConsoleApp.dll
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ref/ConsoleApp.dll
+/mnt/f/Projects/Task/ConsoleApp/bin/Debug/net5.0/ConsoleApp.pdb
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.AssemblyReference.cache
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfoInputs.cache
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfo.cs
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.dll
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ref/ConsoleApp.dll
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.pdb
+/mnt/f/Projects/Task/ConsoleApp/obj/Debug/net5.0/ConsoleApp.genruntimeconfig.cache
